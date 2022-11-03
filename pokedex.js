@@ -1,4 +1,4 @@
-const pokemonTotal = 899;
+const pokemonTotal = 150;
 
 const catchPokemon = async () => {
     for (let i = 1; i < pokemonTotal; i++) {
